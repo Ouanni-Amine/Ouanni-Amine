@@ -54,11 +54,11 @@ Languages & Frameworks
  
 <div align="center">
  
-![Amine's GitHub Stats](https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile)
+<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&v=2" alt="Amine's GitHub Stats" />
 
-![Top Languages](https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ouanni-Amine&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Ouanni-Amine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
  
 <br/>
 
