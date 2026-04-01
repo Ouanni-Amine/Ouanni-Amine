@@ -54,13 +54,13 @@ Languages & Frameworks
  
 <div align="center">
 
-<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&v=4" width="350"/>
+<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" width="350" height="139"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=Ouanni-Amine&theme=tokyonight&hide_border=true" width="350"/>
 
 <br/>
 
-<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true&v=4"/>
+<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="350" height="139"/>
 
 </div>
 
