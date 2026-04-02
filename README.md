@@ -77,5 +77,3 @@ Languages & Frameworks
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amine-ouanni/)
 
 </div>
-
----
