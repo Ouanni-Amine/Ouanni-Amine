@@ -32,7 +32,7 @@
 
 Tools
 
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,vscode,git,github,linux,docker,aws,azure,nginx,vim&perline=13" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,git,github,linux,docker,aws,azure,vim&perline=11" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48" height="48" alt="Cisco" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="48" height="48" alt="GNS3" />
  
