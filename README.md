@@ -64,6 +64,45 @@ Languages & Frameworks
 
 </div>
 
+## 🏅 Certificates
+ 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<a href="https://www.credly.com/earner/earned/badge/9a39c4de-17ec-4686-af45-9e4b37a963b2">
+<img src="https://raw.githubusercontent.com/Ouanni-Amine/Assets/main/Readme/CCNA.png" width="100" alt="CCNA" />
+<br/>
+<b>CCNA</b>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://www.credly.com/earner/earned/badge/ee062177-1d1c-4f34-a03f-616ce45c8a3f">
+<img src="https://raw.githubusercontent.com/Ouanni-Amine/Assets/main/Readme/PCAP.png" width="100" alt="PCAP" />
+<br/>
+<b>PCAP</b>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://www.credly.com/earner/earned/badge/7cffa0e9-031a-4deb-95c3-76c0accd1ed9">
+<img src="https://raw.githubusercontent.com/Ouanni-Amine/Assets/main/Readme/PCEP.png" width="100" alt="PCEP" />
+<br/>
+<b>PCEP</b>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://www.codingame.com/certification/IkMyxP5jdqNjaH23R3sfMQ">
+<img src="https://raw.githubusercontent.com/Ouanni-Amine/Assets/main/Readme/coding%20game.svg" width="100" alt="C++" />
+<br/>
+<b>C++</b>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
 ## 🌐 Contact Me
 
 <div>
