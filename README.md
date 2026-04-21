@@ -32,9 +32,11 @@
 
 Tools
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,git,github,linux,docker,aws,azure,vim&perline=11" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48" height="48" alt="Cisco" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="48" height="48" alt="GNS3" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,git,github,linux,docker,aws,azure,vim&perline=13" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48" alt="Cisco" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="48" alt="GNS3" />
+
+</div>
  
 </div>
 
@@ -51,16 +53,15 @@ Languages & Frameworks
 </div>
 
 ## 📊 GitHub Stats
- 
+
 <div align="center">
-
-<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" width="350" height="139"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=Ouanni-Amine&theme=tokyonight&hide_border=true" width="350"/>
-
+ 
+<img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="195"/>
+<img src="https://streak-stats.demolab.com?user=Ouanni-Amine&theme=tokyonight&hide_border=true" height="195"/>
+ 
 <br/>
-
-<img src="https://my-github-stats-dajwio3gy-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="350" height="139"/>
+ 
+<img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 
 </div>
 
