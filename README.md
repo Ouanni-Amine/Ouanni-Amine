@@ -12,7 +12,7 @@
  
 ## 💫 About Me
  
-• Software engineering student at **1337 | UM6P**, part of the **42 Network**.<br/>
+• Software & Infrastructure engineering student at **1337 | UM6P**, part of the **42 Network**.<br/>
 • Strong background in low-level development, network/systems design, troubleshooting, and architecture.<br/>
 • Fact: *"Just make it exist first, you can make it good later."*
  
