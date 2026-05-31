@@ -55,14 +55,10 @@ Languages & Frameworks
 ## 📊 GitHub Stats
 
 <div align="center">
- 
-<img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="195"/>
-<img src="https://streak-stats.demolab.com?user=Ouanni-Amine&theme=tokyonight&hide_border=true" height="195"/>
- 
-<br/>
- 
-<img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
-
+  <img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api?username=Ouanni-Amine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="175" width="380"/>
+  <img src="https://streak-stats.demolab.com?user=Ouanni-Amine&theme=tokyonight&hide_border=true" height="175" width="380"/>
+  <br/><br/>
+  <img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 </div>
 
 ## 🏅 Certificates
