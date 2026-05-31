@@ -67,7 +67,7 @@ Languages & Frameworks
     <tr>
       <td colspan="2" align="center">
         <br/>
-        <img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+        <img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="200"/>
       </td>
     </tr>
   </table>
