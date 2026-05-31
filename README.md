@@ -12,10 +12,11 @@
  
 ## 💫 About Me
  
-• Software & Infrastructure engineering student at **1337 | UM6P**, part of the **42 Network**.<br/>
-• Strong background in low-level development, network/systems design, troubleshooting, and architecture.<br/>
+• Computer Architect engineering student at **1337 | UM6P**, part of the **42 Network**.<br/>
+• Strong background in cloud infrastructure deployment with a deep understanding of network and systems architecture.<br/>
+• Solid hands-on experience in DevOps, automation, CI/CD, and containerized environments<br/>
 • Fact: *"Just make it exist first, you can make it good later."*
- 
+
 <br/>
  
 <div align="center">
