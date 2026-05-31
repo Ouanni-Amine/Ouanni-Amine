@@ -2,7 +2,7 @@
  
 # Hi 👋, I'm Amine
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+%26+Infrastructure+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Student+%40+1337-UM6P" alt="Headline SVG" />
 
 <br/>
  
@@ -67,7 +67,7 @@ Languages & Frameworks
     <tr>
       <td colspan="2" align="center">
         <br/>
-        <img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
+        <img src="https://my-github-stats-8og7a0s3w-ouanni-amines-projects.vercel.app/api/top-langs/?username=Ouanni-Amine&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
       </td>
     </tr>
   </table>
